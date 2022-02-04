@@ -1,4 +1,5 @@
 Merhaba
 Ezra
 test
-cakisma olacak
+cikisma olacak
+deneme remote
