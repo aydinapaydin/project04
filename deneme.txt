@@ -3,6 +3,12 @@ Ezra
 test
 cikisma olacak
 deneme remote
+
 AAAAAAAAAAAA
 AAAAAAAaAAAAa
 AAAAAAAAAAAAAAAAAAa
+
+BBBBBBBBBBBBBBB
+BBBBBBBBBBBb
+
+
